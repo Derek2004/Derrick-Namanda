@@ -1,3 +1,3 @@
 #Hi There! 
 
-# I'm Derrick Namanda. A software engineer, 
+# I'm Derrick Namanda. A software engineer. 
